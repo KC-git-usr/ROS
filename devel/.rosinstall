@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kc/ros_ws/devel/setup.sh
